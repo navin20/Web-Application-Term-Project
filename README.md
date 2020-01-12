@@ -37,29 +37,29 @@ https://drive.google.com/open?id=1fyPmShd1s2a33-Y3U6uncr5JmReP8_Vr
 
 
 
-## Programming and Web Languages used to code:
+# Programming and Web Languages used to code:
 
-### html
+##                                html
 
 <img src = "screenshots/html.png">
 
 
 
 
-### css
+##                                css
 
 <img src = "screenshots/css.png">
 
 
 
-### javascript(for sliding carousel and some more parts)
+##             javascript(for sliding carousel and some more parts)
 
 
 <img src = "screenshots/javascript.png">
 
 
 
-### sql
+##                      sql
 
 <img src = "screenshots/sql.png">
 
