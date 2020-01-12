@@ -33,7 +33,49 @@ https://drive.google.com/open?id=1fyPmShd1s2a33-Y3U6uncr5JmReP8_Vr
 
 
 
+
+
+
+
+## Programming and Web Languages used to code:
+
+### html
+
+<img src = "screenshots/html.png">
+
+
+
+
+### css
+
+<img src = "screenshots/css.png">
+
+
+
+### javascript(for sliding carousel and some more parts)
+
+
+<img src = "screenshots/javascript.png">
+
+
+
+### sql
+
+<img src = "screenshots/sql.png">
+
+
+
+### php
+
+
+<img src = "screenshots/php.png">
+
+
+
+
 # Some of the files in this folder are unrelated to the projects also
+
+
 
 
 
