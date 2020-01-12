@@ -7,7 +7,7 @@ https://drive.google.com/open?id=1fyPmShd1s2a33-Y3U6uncr5JmReP8_Vr
 
 
 ## Homepage of the website
-<img src = "screenshot/homepage.JPG">
+<img src = "screenshots/homepage.JPG">
 
 
 
